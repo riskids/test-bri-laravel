@@ -1,0 +1,15 @@
+{
+    "name": "Goods",
+    "alias": "goods",
+    "description": "Inventory management module for goods",
+    "keywords": [],
+    "version": "1.0.0",
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Goods\\Providers\\GoodsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
